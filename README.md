@@ -1,5 +1,5 @@
 # flask-project
 
-# Simple todo list made with flask
+Simple todo list made with flask
 
-# flask run to run project
+flask run to run project
